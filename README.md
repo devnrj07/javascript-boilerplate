@@ -1,2 +1,2 @@
 # javascript-boilerplate
-boilerplate code with babel and webpack configured to built fully fuctional websites and speed up the development
+boilerplate code with babel and webpack configured to build fully fuctional websites and speed up the development.
